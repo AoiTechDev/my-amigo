@@ -6,9 +6,10 @@ const Navbar = () => {
       <div>
         <span>My-Amigo</span>
       </div>
-      <div className=" flex-center gap-4">
-        <span>Create</span>
-        <span>Storage</span>
+      <div className=" hidden sm:flex justify-center items-center gap-2 md:gap-4 lg:gap-8  "> 
+        <span className="">Create</span>
+        <span className="">Storage</span>
+        <span>Showcase</span>
       </div>
       <div>
         <span className="flex items-center">

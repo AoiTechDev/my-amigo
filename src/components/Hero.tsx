@@ -10,7 +10,7 @@ const Hero = () => {
             share it <span className="px-2 hero_text">everywhere</span>
           </span>
         </h1>
-        <p className="text-balance text-center lg:text-start">
+        <p className="text-balance text-center text-sm sm:text-md lg:text-start">
           Combine favorite frameworks with fun accessories to craft a unique,
           funny avatar. Perfect for showing off on social media and profiles!
         </p>
