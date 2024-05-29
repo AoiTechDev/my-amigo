@@ -1,10 +1,8 @@
 import { SignInButton, SignedIn, SignedOut, UserButton } from "@clerk/nextjs";
-import { Sign } from "crypto";
-import React from "react";
 
 const Navbar = () => {
   return (
-    <nav className="fixed top-0 w-full flex justify-between items-center px-4 sm:px-24 z-50 h-12 ">
+    <nav className="fixed top-0 w-full flex justify-between items-center py-8 px-4 sm:px-24 z-50 h-12 ">
       <div>
         <span>My-Amigo</span>
       </div>
