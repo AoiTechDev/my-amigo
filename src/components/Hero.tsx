@@ -14,7 +14,7 @@ const Hero = () => {
           Combine favorite frameworks with fun accessories to craft a unique,
           funny avatar. Perfect for showing off on social media and profiles!
         </p>
-        <button className="bg-yellow px-12 py-3 rounded-lg">
+        <button className="bg-orange px-12 py-3 rounded-lg">
           <span className="font-medium">Create Amigo</span>
         </button>
       </div>

@@ -18,6 +18,9 @@ const config = {
       },
     },
     extend: {
+      colors: {
+        "orange": "#FFBE1A",
+      },
       keyframes: {
         "accordion-down": {
           from: { height: "0" },
