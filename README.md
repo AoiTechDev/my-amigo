@@ -1,1 +1,1 @@
-
+Funny framework avatar generator
